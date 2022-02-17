@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "style.css" ?>
+<Playlist>
+    <Song>
+        <Title>All of Me</Title>
+        <Artist>John Legend</Artist>
+        <Genre>
+            <mainGenre>R and B</mainGenre>
+            <Subgenre>Soul</Subgenre>
+            <Subgenre>Pop</Subgenre>
+        </Genre>
+        <YearReleased>2013</YearReleased>
+    </Song>
+    
+    <Song>
+        <Title>Adore You</Title>
+        <Artist>Harry Styles</Artist>
+        <Genre>
+            <mainGenre>Pop Rock</mainGenre>
+            <Subgenre>Funk</Subgenre>
+            <Subgenre>Disco</Subgenre>
+        </Genre>
+        <YearReleased>2019</YearReleased>
+    </Song>
+    
+    <Song>
+        <Title>Rewrite the Stars</Title>
+        <Artist>Zac Efron and Zendaya</Artist>
+        <Genre>
+            <mainGenre>Musical Theatre</mainGenre>
+            <Subgenre>Pop</Subgenre>
+        </Genre>
+        <YearReleased>2018</YearReleased>
+    </Song>
+   
+   <Song>
+        <Title>The Bones</Title>
+        <Artist>Maren Morris</Artist>
+        <Genre>
+            <mainGenre>Pop</mainGenre>
+            <Subgenre>Country</Subgenre>
+        </Genre>
+        <YearReleased>2019</YearReleased>
+    </Song>
+    
+    <Song>
+        <Title>Love Story</Title>
+        <Artist>Taylor Swift</Artist>
+        <Genre>
+            <mainGenre>Country Pop</mainGenre>
+        </Genre>
+        <YearReleased>2008</YearReleased>
+    </Song>
+   
+    <Song>
+        <Title>Just the Way You Are</Title>
+        <Artist>Bruno Mars</Artist>
+        <Genre>
+            <mainGenre>Pop</mainGenre>
+            <Subgenre>R and B</Subgenre>
+            <Subgenre>Soft Rock</Subgenre>
+        </Genre>
+        <YearReleased>2010</YearReleased>
+    </Song>
+    
+    <Song>
+        <Title>She Will Be Loved</Title>
+        <Artist>Maroon 5</Artist>
+        <Genre>
+            <mainGenre>Alternative Rock</mainGenre>
+            <Subgenre>Pop Rock</Subgenre>
+            <Subgenre>Soft Rock</Subgenre>
+        </Genre>
+        <YearReleased>2004</YearReleased>
+    </Song>
+    
+    <Song>
+        <Title>A Thousand Years</Title>
+        <Artist>Christina Perri</Artist>
+        <Genre>
+            <mainGenre>R and B</mainGenre>
+            <Subgenre>Soul</Subgenre>
+        </Genre>
+        <YearReleased>2011</YearReleased>
+    </Song>
+    
+    <Song>
+        <Title>I'm Yours</Title>
+        <Artist>Jason Mraz</Artist>
+        <Genre>
+            <mainGenre>Reggae</mainGenre>
+            <Subgenre>Folk Pop</Subgenre>
+            <Subgenre>Soft Rock</Subgenre>
+        </Genre>
+        <YearReleased>2008</YearReleased>
+    </Song>
+    
+    <Song>
+        <Title>Perfect</Title>
+        <Artist>Ed Sheeran</Artist>
+        <Genre>
+            <mainGenre>Pop</mainGenre>
+            <Subgenre>Latin ballad</Subgenre>
+        </Genre>
+        <YearReleased>2017</YearReleased>
+    </Song>
+</Playlist>
