@@ -1,8 +1,5 @@
 Song {
-    text-align: center;
-    border: 1px;
-    margin: auto;
-    padding: 20px;
+    width: 100%;
 }
 
 Title {
