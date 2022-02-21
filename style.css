@@ -1,15 +1,18 @@
 Playlist {
-    width: 100%;
+    width: 50%;
+    margin: auto;
     background-color: #BFF3F2;
 }
 
 Song {
     display: block;
     margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
 }
 
 Title {
-    font-size: 24px;
+    font-size: 26px;
     display: block;
 }
 
@@ -27,7 +30,6 @@ mainGenre {
 Subgenre {
     display: block;
     font-size: 16px;
-    margin-left: 20px;
 }
 
 YearReleased {
