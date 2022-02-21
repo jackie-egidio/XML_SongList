@@ -1,6 +1,7 @@
 Playlist {
-    width: 100%;
-    background-color: #85E5E7;
+    width: 50%;
+    margin: auto;
+    background-color: #BFF3F2;
 }
 
 Song {
@@ -20,7 +21,7 @@ Artist {
 
 mainGenre {
     display: block;
-    color: rgb(15, 15, 80);
+    color: #E76464;
     font-size: 20px;
 }
 
